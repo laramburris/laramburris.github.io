@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  background-color: black;
+
+}
+
+nav ul {
+  border:solid
+}
+
+nav li {
+  display: inline-block
+}
